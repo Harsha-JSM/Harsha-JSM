@@ -43,8 +43,6 @@ Interests: Power Electronics, High-Speed PCB design, Embedded Systems, and pract
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-FC8803?style=for-the-badge&logo=autodesk&logoColor=white)
 ![LTSpice](https://img.shields.io/badge/-LTSpice-7A7A7A?style=for-the-badge)
-![Multisim](https://img.shields.io/badge/-Multisim-2C81D6?style=for-the-badge)
-![PCB High-Speed](https://img.shields.io/badge/-High-Speed_PCB_Design-1F6FEB?style=for-the-badge)
 
 ### 🧪 Simulation / Sims
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge)
@@ -106,7 +104,3 @@ Oscilloscope • Logic Analyzer • Spectrum Analyzer • Goniophotometer • In
 
 ---
 
-> _Notes:_  
-> • Replace `./assets/*.png` placeholders with real images.  
-> • Add repository links where indicated.  
-> • If you want, I can generate standardized thumbnails so the README looks uniform.
