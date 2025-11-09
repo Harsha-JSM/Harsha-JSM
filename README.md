@@ -5,13 +5,13 @@
 ## 👨‍🔬 About Me
 I'm a **Hardware Systems Design Engineer** from India with 4+ years of experience designing production-ready electronics for IoT, lighting, and automation. I focus on building efficient, manufacturable designs that balance **performance, reliability, and cost**.
 
-My interests range from Power Electronic, High-Speed PCB design, IoT/Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling, Pyro Chemistry and Control Systems.
+My interests range from Power Electronic, High-Speed PCB design, Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry and Control Systems.
 ---
 
 ## ⚡ Quick Links
 - Portfolio / Website: _(coming soon)_  
 - Resume: [Download PDF](./Harsha_Resume.pdf)  
-- Contact: [harshavardhanbjsm@gmail.com]
+- Contact: harshavardhanbjsm@gmail.com
 
 ---
 
