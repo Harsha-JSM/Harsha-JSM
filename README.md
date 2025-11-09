@@ -19,13 +19,15 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ### 🛠️ Skills & Tools
 
 ### 🧩 Embedded & Firmware
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-5A29E4?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 ### 💻 Software & Frontend / Backend
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,20 +35,23 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,git,github,atom,figma,html,js,obsidian,py,visualstudio,vscode," />
   </a>
 </p>
 
-### 🔌 Hardware & PCB
+### 🔌 Hardware & ECAD
 ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-DD6829?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-FC8803?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fritzing](https://img.shields.io/badge/-Fritzing-E34F26?style=for-the-badge&logo=Fritzing&logoColor=white)
 
 
 ### 🧪 Simulation / Sims
