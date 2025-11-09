@@ -5,7 +5,7 @@
 ## 👨‍🔬 About Me
 I'm a **Hardware Systems Design Engineer** from India with 4+ years of experience designing production-ready electronics for IoT, lighting, and automation. I focus on building efficient, manufacturable designs that balance **performance, reliability, and cost**.
 
-My interests range from Power Electronic, High-Speed PCB design, Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry and Control Systems.
+My interests range from Power Electronic, High-Speed PCB design, Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling, Pyro Chemistry and Control Systems.
 
 ---
 
@@ -47,13 +47,14 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-DD6829?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-FC8803?style=for-the-badge&logo=autodesk&logoColor=white)
-![LTSpice](https://img.shields.io/badge/-LTSpice-7A7A7A?style=for-the-badge)
+
 
 ### 🧪 Simulation / Sims
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/-Proteus-5A2D82?style=for-the-badge)
 ![Multisim](https://img.shields.io/badge/-Multisim-2C81D6?style=for-the-badge)
 ![Unity3D](https://img.shields.io/badge/-Unity3D-000000?style=for-the-badge&logo=unity)
+![LTSpice](https://img.shields.io/badge/-LTSpice-7A7A7A?style=for-the-badge)
 
 ---
 
@@ -61,7 +62,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 > _(Click images to open project repo — images are placeholders, replace with your screenshots in `/assets` or repo root)_
 
-### LumiCore — ESP32 RGB Lighting Firmware
+### 🧠 LumiCore — ESP32 RGB Lighting Firmware
 ![LumiCore preview](./assets/lumicore-thumb.png)  
 **What:** ESP32 firmware for NeoPixel control with Wi-Fi AP mode, MQTT, offline sequences.  
 **Tech:** ESP32, C/C++, FreeRTOS, MQTT.  
@@ -70,7 +71,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 ---
 
-### BiFrost FX — Android Companion App
+### 🌈 BiFrost FX — Android Companion App
 ![BiFrost FX preview](./assets/bifrostfx-thumb.png)  
 **What:** Android app for real-time effects, color mixing, and animation presets for LumiCore.  
 **Tech:** Dart, Flutter, BLE/Wi-Fi integration.  
@@ -79,7 +80,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 ---
 
-### SA-UGV Series — Semi-Autonomous Robot
+### 🤖 SA-UGV Series — Semi-Autonomous Robot
 ![SA-UGV preview](./assets/sa-ugv-thumb.png)  
 **What:** 4WD surveillance UGV with live video streaming, 3-DOF laser module, ESP-NOW control.  
 **Tech:** ESP32, motor drivers, custom PCB.  
@@ -88,8 +89,15 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 ---
 
+### 🔥 **PyroLynk T-Logger** 
+**What:** A Wi-Fi-enabled, high-temperature industrial-grade data logger using a NodeMCU-12E and ADC-based K-type thermocouple sensor.  
+**Tech:** ESP12E, K-type TC, PiezoElectrics
+**Status:** V1.1 complete; V2 in development.  
+**Repo:** `PyroLynk` (link)
+---
+
 ## 🧪 Lab & Test Equipment
-Oscilloscope • Logic Analyzer • Spectrum Analyzer • Goniophotometer • Integrating Sphere • Multimeter
+Oscilloscope • Logic Analyzer • Spectrum Analyzer • Goniophotometer • Integrating Sphere
 
 ---
 
