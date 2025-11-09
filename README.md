@@ -9,21 +9,26 @@ I'm a Hardware Systems Design Engineer from India. I have a passion for building
 
 ### ⚡ My Skills
 
-**Hardware & Electronics**
-* Hardware Systems Design
-* High-Speed (HS) PCB Design
-* Power Electronics
-* IoT / Embedded Systems
-* Inter-Connect Design
+<br>
 
-**Software & Tools**
+**Hardware & PCB Design**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
-  </a>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A8352C?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-2E2E2E?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-EF7C00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/High--Speed%20PCB%20Design-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Electronics-F7B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inter--Connect%20Design-333333?style=for-the-badge" />
 </p>
 
-<br>
+**Embedded & Software**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ### 🔭 What I'm Working On
 * Currently building the **'PyroLynk T-Logger'**: A Wi-Fi-enabled high-temperature industrial grade data logger using a NodeMCU-12E and an ADC attached K-thermocouple sensor.
