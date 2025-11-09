@@ -5,18 +5,17 @@
 ## 👨‍🔬 About Me
 I'm a **Hardware Systems Design Engineer** from India with 4+ years of experience designing production-ready electronics for IoT, lighting, and automation. I focus on building efficient, manufacturable designs that balance **performance, reliability, and cost**.
 
-Interests: Power Electronics, High-Speed PCB design, Embedded Systems, and practical experimentation across adjacent fields like molecular biology and control systems.
-
+My interests range from Power Electronic, High-Speed PCB design, IoT/Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling, Pyro Chemistry and Control Systems.
 ---
 
 ## ⚡ Quick Links
 - Portfolio / Website: _(coming soon)_  
 - Resume: [Download PDF](./Harsha_Resume.pdf)  
-- Contact: [email] / LinkedIn
+- Contact: [harshavardhanbjsm@gmail.com]
 
 ---
 
-## 🧰 Skills & Tools
+### 🛠️ Skills & Tools
 
 ### 🧩 Embedded & Firmware
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +25,11 @@ Interests: Power Electronics, High-Speed PCB design, Embedded Systems, and pract
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-5A29E4?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
+  </a>
+</p>
 ### 💻 Software & Frontend / Backend
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -100,8 +103,8 @@ Oscilloscope • Logic Analyzer • Spectrum Analyzer • Goniophotometer • In
 ---
 
 ## 📫 Contact & Links
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshavardhanbjsm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
