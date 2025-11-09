@@ -6,6 +6,7 @@
 I'm a **Hardware Systems Design Engineer** from India with 4+ years of experience designing production-ready electronics for IoT, lighting, and automation. I focus on building efficient, manufacturable designs that balance **performance, reliability, and cost**.
 
 My interests range from Power Electronic, High-Speed PCB design, Embedded Systems to the intermediates and practical experimentation across adjacent fields like Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry and Control Systems.
+
 ---
 
 ## ⚡ Quick Links
@@ -38,7 +39,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,atom,figma,html,js,obsidian,py,visualstudio,vscode," />
   </a>
 </p>
 
