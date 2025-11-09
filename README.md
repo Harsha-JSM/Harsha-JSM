@@ -19,7 +19,7 @@ I'm a Hardware Systems Design Engineer from India. I have a passion for building
 **Software & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ I'm a Hardware Systems Design Engineer from India. I have a passion for building
 ### 🔭 What I'm Working On
 * Currently building the **'PyroLynk T-Logger'**: A Wi-Fi-enabled high-temperature industrial grade data logger using a NodeMCU-12E and an ADC attached K-thermocouple sensor.
 
-<br>t
+<br>
 
 ### 📫 Connect with me!
 <p align="left">
