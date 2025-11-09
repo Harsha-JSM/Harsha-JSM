@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Harsha 👋
 
-<!--
-**Harsha-JSM/Harsha-JSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I'm a Hardware Systems Design Engineer from India. I have a passion for building, designing, and exploring the intersection of electronics and technology. My interests range from Power Electronics and High-Speed PCB design to the fundamentals ans intermediates of Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### ⚡ My Skills
+
+**Hardware & Electronics**
+* Hardware Systems Design
+* High-Speed (HS) PCB Design
+* Power Electronics
+* IoT / Embedded Systems
+* Inter-Connect Design
+
+**Software & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github" />
+  </a>
+</p>
+
+<br>
+
+### 🔭 What I'm Working On
+* Currently building the **'PyroLynk T-Logger'**: A Wi-Fi-enabled high-temperature industrial grade data logger using a NodeMCU-12E and an ADC attached K-thermocouple sensor.
+
+<br>t
+
+### 📫 Connect with me!
+<p align="left">
+  <a href="[YOUR_LINKEDIN_URL_HERE]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  </p>
+
+<br>
+
+### 📄 My Resume
+* [**Download my Resume**]([YOUR_RESUME_LINK_HERE])
