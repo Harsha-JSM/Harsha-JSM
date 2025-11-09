@@ -25,11 +25,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-5A29E4?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
-  </a>
-</p>
+
 ### 💻 Software & Frontend / Backend
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -40,6 +36,11 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,atom,css,dart,figma,flutter,html,js,matlab,obsidian,py,unity,unreal,visualstudio,vscode," />
+  </a>
+</p>
 
 ### 🔌 Hardware & PCB
 ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-DD6829?style=for-the-badge&logo=altiumdesigner&logoColor=white)
