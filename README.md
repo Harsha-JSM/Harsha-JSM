@@ -3,7 +3,7 @@
 <br>
 
 ### 👨‍💻 About Me
-I'm a Hardware Systems Design Engineer from India. I have a passion for building, designing, and exploring the intersection of electronics and technology. My interests range from Power Electronics and High-Speed PCB design to the fundamentals ans intermediates of Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry.
+I'm a Hardware Systems Design Engineer from India. I have a passion for building, designing, and exploring the intersection of electronics and technology. My interests range from Power Electronics and High-Speed PCB design to the fundamentals and intermediates of Molecular Biology, Theology, Social Network Modelling and Pyro Chemistry.
 
 <br>
 
