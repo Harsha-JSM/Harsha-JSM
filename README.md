@@ -42,7 +42,6 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,git,github,atom,figma,html,js,obsidian,py,visualstudio,vscode," />
   </a>
 </p>
