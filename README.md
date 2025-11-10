@@ -16,7 +16,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 ---
 
-### 🛠️ Skills & Tools
+### 💽 Skills & Tools
 
 ### 🧩 Embedded & Firmware
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -47,14 +47,14 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
   </a>
 </p>
 
-### 🔌 Hardware & ECAD
+### 📡 Hardware & ECAD
 ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-DD6829?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-FC8803?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/-Fritzing-E34F26?style=for-the-badge&logo=Fritzing&logoColor=white)
 
 
-### 🧪 Simulation / Sims
+### ❇️ Simulation / Sims
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/-Proteus-5A2D82?style=for-the-badge)
 ![Multisim](https://img.shields.io/badge/-Multisim-2C81D6?style=for-the-badge)
@@ -63,7 +63,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 
 ---
 
-## 🔭 Featured Projects
+## 📇 Featured Projects
 
 > _(Click images to open project repo — images are placeholders, replace with your screenshots in `/assets` or repo root)_
 
