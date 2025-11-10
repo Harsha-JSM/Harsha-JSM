@@ -54,7 +54,7 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ![Fritzing](https://img.shields.io/badge/-Fritzing-E34F26?style=for-the-badge&logo=Fritzing&logoColor=white)
 
 
-### ❇️ Simulation / Sims
+### ❇️ Simulation / GE
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/-Proteus-5A2D82?style=for-the-badge)
 ![Multisim](https://img.shields.io/badge/-Multisim-2C81D6?style=for-the-badge)
