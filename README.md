@@ -95,8 +95,9 @@ My interests range from Power Electronic, High-Speed PCB design, Embedded System
 ---
 
 ### 🔥 **PyroLynk T-Logger** 
+![PyroLynk preview](./assets/PyroLynk-thumb.png) 
 **What:** A Wi-Fi-enabled, high-temperature industrial-grade data logger using a NodeMCU-12E and ADC-based K-type thermocouple sensor.  
-**Tech:** ESP12E, K-type TC, PiezoElectrics
+**Tech:** ESP12E, K-type TC, PiezoElectrics.
 **Status:** V1.1 complete; V2 in development.  
 **Repo:** `PyroLynk` (link)
 
